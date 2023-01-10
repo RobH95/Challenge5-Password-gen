@@ -20,3 +20,4 @@ Open index.html in any browser.
 
 ## License
 MIT license - included in LICENSE
+
